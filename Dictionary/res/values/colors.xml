@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_theme_color">#FF666666</color>
+    <color name="gray_hint_color">#bdbdbd</color>
+    <color name="spinner_color">#FFCCCCCC</color>
+    <color name="color_light_blue">#2690C4</color> 
+    
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon">Icon</string>
+    <string name="enter_keyword_to_search">Enter keyword to search</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="unfavorite">UNFAVORITE</string>
+    <string name="revmob_id">53ea51e39b33ceb406baa33f</string>
+    <string name="admob_id_home_screen_banner">ca-app-pub-9680869812574499/5752993762</string>
+    <string name="admob_id_meaning_screen_banner">ca-app-pub-9680869812574499/7229726962</string>
+    <string name="admob_id_multi_language_screen_banner">ca-app-pub-9680869812574499/5139800963</string>
+    <string name="no_word_to_match_your_pattern">No word to match your pattern</string>
+    <string name="title_activity_multi_language">MultiLanguageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="touch_to_type">Touch To Type</string>
+    <string name="translate">TRANSLATE</string>
+    <string name="translater_link">https://translate.google.com/translate_a/single?client=p&amp;sl=%1$s&amp;tl=%2$s&amp;hl=en&amp;dt=bd&amp;dt=ex&amp;dt=ld&amp;dt=md&amp;dt=qc&amp;dt=rw&amp;dt=rm&amp;dt=ss&amp;dt=t&amp;dt=at&amp;dt=sw&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=btn&amp;ssel=0&amp;tsel=0&amp;q=%3$s</string>
+
+</resources>
